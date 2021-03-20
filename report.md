@@ -28,8 +28,9 @@ The goals / steps of this project are the following:
 My project includes the following files:
 * model.py (or train.ipynb) containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
-* model.h5 containing a trained convolution neural network 
-* writeup_report.md or writeup_report.pdf summarizing the results
+* model/model.h5 containing a trained convolution neural network 
+* report.md or writeup_report.pdf summarizing the results
+* video_output_autonomous/video.mp4 - A video recording of your vehicle driving autonomously at least one lap around the track.
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
